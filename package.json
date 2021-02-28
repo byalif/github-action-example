@@ -1,0 +1,19 @@
+{
+  "name": "github-action-example",
+  "version": "0.1.0",
+  "description": "Github Action Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --exit"
+  },
+  "author": "Tubagus Hendro Pramono",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "chai": "^4.3.0",
+    "mocha": "^8.3.0",
+    "supertest": "^6.1.3"
+  }
+}
